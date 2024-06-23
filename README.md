@@ -26,6 +26,9 @@ Funcionalidades
 - Digite o valor do Ácool
 - E aí está o resultado.
 
+## Integrantes 
+Cecília Maria Soares Araujo - RA: 22251356
+
 
 ## Como Usar
 Clone o repositório https://github.com/Cecilia-ma19/App-Alcool-Ou-Gasolina.git
