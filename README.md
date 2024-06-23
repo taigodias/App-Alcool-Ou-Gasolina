@@ -15,12 +15,10 @@ Funcionalidades
 - Exibição do resultado com cores indicativas (vermelho para gasolina e verde para álcool)
 
 ## Capturas de Tela
+![Screenshot_20240623_185702](https://github.com/Cecilia-ma19/App-Alcool-Ou-Gasolina/assets/116919255/aca1e070-d942-45ec-bbab-7c00dd7a2df7)
+![Screenshot_20240623_185800](https://github.com/Cecilia-ma19/App-Alcool-Ou-Gasolina/assets/116919255/ca007b33-34fa-474e-912a-1feac5026562)
+![Screenshot_20240623_185834](https://github.com/Cecilia-ma19/App-Alcool-Ou-Gasolina/assets/116919255/1b775076-fe01-4c60-8322-cdadfa5f930d)
 
-![Screenshot_20240623_185702](https://github.com/Cecilia-ma19/App-Alcool-Ou-Gasolina/assets/116919255/9f11bfa7-7671-47cc-acde-83f9021d431d)
-
-![Screenshot_20240623_185800](https://github.com/Cecilia-ma19/App-Alcool-Ou-Gasolina/assets/116919255/9caddfa9-55d0-4050-bdde-ded93661a550)
-
-![Screenshot_20240623_185834](https://github.com/Cecilia-ma19/App-Alcool-Ou-Gasolina/assets/116919255/e1414a42-1fd2-4f01-ba0d-4cc2281fe075)
 
 PARA CALCULAR: 
 Digite o valor da Gasolina 
