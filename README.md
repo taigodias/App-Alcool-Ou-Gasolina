@@ -22,10 +22,10 @@ Funcionalidades
 
 ![Screenshot_20240623_185834](https://github.com/Cecilia-ma19/App-Alcool-Ou-Gasolina/assets/116919255/e1414a42-1fd2-4f01-ba0d-4cc2281fe075)
 
-
-    Digite o valor da Gasolina
-    Em seguida, preencha o valor do Álcool
-    Pronto, aí está o seu resultado
+PARA CALCULAR: 
+Digite o valor da Gasolina 
+Digite o valor do Ácool
+E aí está o resultado.
 
 
 ## Como Usar
