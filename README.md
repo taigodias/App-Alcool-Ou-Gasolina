@@ -1,8 +1,8 @@
-App Álcool ou Gasolina
+## App Álcool ou Gasolina
 
 ![pngegg](https://github.com/Cecilia-ma19/App-Alcool-Ou-Gasolina/assets/116919255/a172ec00-71a6-4d78-aa9b-caa7072bccea)
 
-Descrição
+## Descrição
 Este é um simples aplicativo Android que ajuda os usuários a decidirem se devem abastecer seus veículos com álcool ou gasolina, com base nos preços fornecidos.
 
 Quando vale a pena usar um combustível ou outro?
