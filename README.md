@@ -15,17 +15,16 @@ Funcionalidades
 - Exibição do resultado com cores indicativas (vermelho para gasolina e verde para álcool)
 
 ## Capturas de Tela
-![Screenshot_20240623_185702](https://github.com/Cecilia-ma19/App-Alcool-Ou-Gasolina/assets/116919255/1346d73b-f827-4f05-8a29-becc27d491ad)
+![Screenshot_20240623_185702](https://github.com/Cecilia-ma19/App-Alcool-Ou-Gasolina/assets/116919255/b2108c2d-6b60-4600-9daf-62971649fd58)
 
-![Screenshot_20240623_185800](https://github.com/Cecilia-ma19/App-Alcool-Ou-Gasolina/assets/116919255/5bfa2592-16e9-4a0d-9e47-b59555c5ffa2)
+![Screenshot_20240623_185800](https://github.com/Cecilia-ma19/App-Alcool-Ou-Gasolina/assets/116919255/88df4797-e8dd-414f-8153-3251d62c7c11)
 
-![Screenshot_20240623_185834](https://github.com/Cecilia-ma19/App-Alcool-Ou-Gasolina/assets/116919255/2fdcec54-543e-4876-92c6-575b8695040e)
-
+![Screenshot_20240623_185834](https://github.com/Cecilia-ma19/App-Alcool-Ou-Gasolina/assets/116919255/dd1cd46d-a77c-4dd5-8685-3672f66bac7e)
 
 ## PARA CALCULAR: 
-Digite o valor da Gasolina 
-Digite o valor do Ácool
-E aí está o resultado.
+- Digite o valor da Gasolina 
+- Digite o valor do Ácool
+- E aí está o resultado.
 
 
 ## Como Usar
