@@ -28,5 +28,5 @@ Funcionalidades
 
 
 ## Como Usar
-1. Clone o repositório.
+Clone o repositório https://github.com/Cecilia-ma19/App-Alcool-Ou-Gasolina.git
    
