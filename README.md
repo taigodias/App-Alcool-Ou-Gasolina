@@ -6,7 +6,7 @@
 Este é um simples aplicativo Android que ajuda os usuários a decidirem se devem abastecer seus veículos com álcool ou gasolina, com base nos preços fornecidos.
 
 Quando vale a pena usar um combustível ou outro?
-A principal diferença entre os dois combustíveis está na proporção entre o preço e o desempenho de cada um. Esta calculadora do Meu Bolso em Dia compara o preço do litro do álcool e da gasolina e mostra qual é o combustível mais vantajoso, financeiramente, no momento.
+A principal diferença entre os dois combustíveis está na proporção entre o preço e o desempenho de cada um. Esta calculadora compara o preço do litro do álcool e da gasolina e mostra qual é o combustível mais vantajoso, financeiramente, no momento.
 O etanal vale a pena quando custar até 70% do valor da gasolina.
 
 Funcionalidades
