@@ -59,10 +59,10 @@ class MainActivity : ComponentActivity() {
     @OptIn(ExperimentalMaterial3Api::class)
     @Composable
     fun App() {
-        var valorGasolina by remember { mutableStateOf("") }
-        var valorAlcool by remember { mutableStateOf("") }
-        var resultado by remember { mutableStateOf("") }
-        var corResultado by remember { mutableStateOf(Color.White) }
+    var valorGasolina by remember { mutableStateOf("") }
+    var valorAlcool by remember { mutableStateOf("") }
+    var resultado by remember { mutableStateOf("") }
+    var corResultado by remember { mutableStateOf(Color.White) }
 
         Scaffold(
             topBar = {
