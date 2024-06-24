@@ -29,6 +29,7 @@ Funcionalidades
 ## Integrantes 
 - Cecília Maria Soares Araujo - RA: 22251356
 - João Pedro Alves de Brito - RA: 22253851
+- Samuel Magalhães Tavares Filho - RA: 22250477
 
 
 ## Como Usar
