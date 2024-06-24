@@ -106,7 +106,7 @@ class MainActivity : ComponentActivity() {
                 if (valorAlcool.isNotBlank() && valorGasolina.isNotBlank()) {
                     val ehGasolina = valorAlcool.toDouble() / valorGasolina.toDouble() > 0.7
                     resultado = if (ehGasolina) "Gasolina" else "Álcool"
-                    corResultado = if (ehGasolina) Color.Red else Color.Green
+                    corResultado = if (ehGasolina) Color.Red else Color.Blue
                 }
 
                 if (resultado.isNotBlank()) {
